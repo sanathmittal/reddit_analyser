@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "reddit-analyzer"
+version = "0.1.0"
+description = "A multi-agent Reddit analysis tool."
+authors = ["Sanath Mittal"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+fastapi = "*"
+uvicorn = "*"
+praw = "*"
+openai = "*"
+langchain = "^0.3.18"
+chromadb = "*"
+sqlite-utils = "*"
+python-dotenv = "*"
+pydantic = "^2.10.6"
+langchain-community = "^0.3.17"
+asyncpraw = "^7.8.1"
+langchain-openai = "^0.3.6"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
