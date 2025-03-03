@@ -1,3 +1,4 @@
+
 Reddit Analyzer – AI-Powered Reddit Insights
 📌 Project Overview
 Reddit Analyzer is a multi-agent AI-powered application that analyzes Reddit data using FastAPI, LangChain, OpenAI's GPT-4o-mini, and ChromaDB. This project fetches Reddit data through the PRAW (Python Reddit API Wrapper), processes it with LLMs, and provides intelligent insights.
@@ -29,7 +30,7 @@ Edit
 GET /analyze_personality/me?access_token=<Reddit Access Token>
 Input: Reddit OAuth access token
 Output: A text-based personality analysis
-2️⃣ Agent 2: AI-Powered Meme & Viral Content Tracker
+2️⃣ Agent 6: AI-Powered Meme & Viral Content Tracker
 This agent tracks trending memes and viral content on Reddit.
 
 ✔️ Tracks Meme Posts – Fetches trending posts from hot, rising, and top categories.
