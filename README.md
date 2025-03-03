@@ -36,7 +36,7 @@ GET /analyze_personality/me?access_token=<Reddit Access Token>
 Input: Reddit OAuth access token
 Output: A text-based personality analysis
 
-### 2️⃣ Agent 6: AI-Powered Meme & Viral Content Tracker
+### 2️⃣ Agent 1: AI-Powered Meme & Viral Content Tracker
 
 This agent tracks trending memes and viral content on Reddit.
 
